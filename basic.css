@@ -224,20 +224,13 @@ figure {
 .fl_right {
     float: right;
 }
-
-
-
 .lastbox {
     margin-right: 0;
 }
-
-
-
 .clear {
     display: block;
     clear: both;
 }
-
 .clear:after {
     content: ".";
     display: block;
